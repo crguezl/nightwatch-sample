@@ -35,7 +35,7 @@ module.exports = {
 
 	'search single word' : function(browser) {
 		this.ddg.search('gato')
-			.resultsShouldContain('gato');
+			.resultsShouldContain('Barbieri');
 	},
 
 	'search exact phrase': function(browser) {
