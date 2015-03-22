@@ -4,6 +4,7 @@
   "description": "end to end tests with nightwatch",
   "main": "",
   "repository": "https://github.com/jmhdez/nightwatch-sample",
+  "url": "http://blog.koalite.com/2014/11/test-de-extremo-a-extremo-con-nightwatch-y-grunt/",
   "scripts": {
     "test": "grunt nightwatch:phantomjs"
   },
